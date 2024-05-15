@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Users/rc1113/Desktop/HTML TUTORIAL/HTML Practise Assets/style.css">
+</head>
+
+<body>
+   <section>
+    <nav>
+        <img src="./HTML Practise Assets/FES.svg" class="logo" alt="">
+        <ul>
+</li><a href="#about">About</a><li>
+<li><a href="#discord">Discord<a></li>
+<li><a href="#contact">Contact</a><li>
+</ul>
+</nav>
+<header>
+    <div class="row">
+</div>
+<h1>The best place to learn Frontend</h1>
+    <p class="subheader">Go from being absolute beginner to pro with a simplified process  
+    <button>Start Now</button>
+    <div>
+        </figure>
+<img src="./HTML Practise Assets/laptop.png" alt="Home Page Image">
+</figure>
+<div>
+</header>
+</section>
+
+</main>
+<section id="about">
+    <h2>About</h2>
+    <div class="section__description">
+        <div class="section__description--wrapper">
+</p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est voluptates tenetur fuga fugiat sint commodi consequuntur perferendis earum nisi architecto a, modi beatae maxime adipisci hic? Ipsam porro illum non.
+</p>    
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit itaque ipsa ducimus nemo, aperiam, molestiae est ut autem quo maiores ipsam laudantium ratione deleniti! Suscipit doloremque porro perspiciatis! Ipsa, reiciendis?</p>
+</p>
+</div>
+<figure class="about__img--wrapper">
+    <img src="./HTML Practise Assets/about.jpg" alt="">
+</figure>
+</div>
+</section>
+
+</section id="discord"></section>
+<h2>Discord</h2>
+<figure>
+<img src="./HTML Practise Assets/discord.png" alt="Discord">
+<figure>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit amet error sunt minima consequatur, explicabo animi perspiciatis assumenda impedit. Tempore maxime expedita id temporibus blanditiis velit sint unde necessitatibus dolorum!
+
+        </p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dolorum, fuga dicta, dignissimos iure necessitatibus nemo possimus, perferendis quis rem error. Eveniet excepturi expedita distinctio dicta sunt. Cumque, error est!
+    </div>
+
+<section id="contact"></section>
+<h2>Contact</h2>
+<form action="">
+<span> Email</span>
+<input type="text" placeholder="RedMicro1113@gmail.com">
+<span>message</span>
+<textarea type="text" placeholder="RedMicro1113@gmail.com"></textarea>
+</form>
+<section>
+    <main>
+
+        <footer>
+            <img src="./HTML Practise Assets/FES.svg" alt="">
+       <div>
+        <a href="#about"></a>
+    <a href="#discord"></a>   
+   <a href="#contact"></a> 
+<a href="Courses"></a>
+</div>
+<p>Copyright Frontend Simplified</p>
+
+        </footer>
+<body>
+    
+<html>
